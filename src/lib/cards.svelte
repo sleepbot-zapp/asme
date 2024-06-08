@@ -1,4 +1,4 @@
-<div class="bg-zinc-400 w-80 h-fit rounded-b-[100px]">
+<div class="bg-green-600 w-80 h-fit rounded-b-[100px]">
     <img class="w-full h-[10rem]" alt={imageAlt} src="{imageUrl}">
     <h1 class="text-2xl text-center capitalize">
         {title}
